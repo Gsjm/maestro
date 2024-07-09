@@ -8,7 +8,7 @@ import json
 from tavily import TavilyClient
 
 # Set up the Anthropic API client
-client = Anthropic(api_key="YOUR KEY")
+client = Anthropic(api_key="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")
 
 # Available Claude models:
 # Claude 3 Opus     claude-3-opus-20240229
